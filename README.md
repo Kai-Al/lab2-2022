@@ -2,7 +2,7 @@
 
 [![Build Status](https://app.travis-ci.com/Kai-Al/lab2-2022.svg?branch=main)](https://app.travis-ci.com/Kai-Al/lab2-2022)
 
-Implementation of a Simple Calculator with the next operations:
+Implementation of a Simple Calculator app, using travis, mocha, chai and sonarcloud for testing with the next operations:
 * Add
 * Minus
 * Multiply
