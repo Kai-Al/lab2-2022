@@ -10,7 +10,7 @@
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=lab2-2022&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=lab2-2022)
 
-
+[![Coverage Status](https://coveralls.io/repos/github/Kai-Al/lab2-2022/badge.svg)](https://coveralls.io/github/Kai-Al/lab2-2022)
 
 Implementation of a Simple Calculator appwith the next operations:
 * Add
