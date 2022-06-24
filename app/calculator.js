@@ -1,7 +1,11 @@
 'use strict';
 
-function add(a,b){
-    return a+b;
+function add(){
+    let num1 = document.getElementById("num1").value;
+    let num2 = document.getElementById("num2").value;
+    let resultado = document.getElementById("resultado").value;
+    let suma = parseInt(num1) + parseInt(num2);
+    resultado.innerHTML = suma;
 }
 
 function minus(a,b){
